@@ -1,9 +1,5 @@
-# MSIS2629_SIKHA
-Project
-Individual Project on America’s Unique Gun Violence
-
-Submitted By: Sikha Rani Das(1425567)
-
+# Vizualization Project
+Scope:America’s Unique Gun Violence
 
 Ref Data Product: https://www.vox.com/policy-and-politics/2017/10/2/16399418/us-gun-violence-statistics-maps-charts
 

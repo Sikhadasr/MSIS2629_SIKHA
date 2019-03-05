@@ -1,6 +1,6 @@
 # Vizualization Project
 Scope:America’s Unique Gun Violence
-
+Objective:
 Ref Data Product: https://www.vox.com/policy-and-politics/2017/10/2/16399418/us-gun-violence-statistics-maps-charts
 
 1.0	This article provides intuitive visual information and statistics on the topic of America’s unique gun violence problem. United States is amongst the handful of nations where gun possession is constitutionally protected. The article focuses on the following issues related to gun violence in the U.S.:

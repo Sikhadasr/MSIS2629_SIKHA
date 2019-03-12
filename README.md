@@ -1,10 +1,12 @@
 # Vizualization Project
-Scope:America’s Unique Gun Violence
-Objective:
-Ref Data Product: https://www.vox.com/policy-and-politics/2017/10/2/16399418/us-gun-violence-statistics-maps-charts
+The scope of this project is America’s Unique Gun Violence. 
+I used the following  Data Product: 
+https://www.vox.com/policy-and-politics/2017/10/2/16399418/us-gun-violence-statistics-maps-charts
 
-1.0	This article provides intuitive visual information and statistics on the topic of America’s unique gun violence problem. United States is amongst the handful of nations where gun possession is constitutionally protected. The article focuses on the following issues related to gun violence in the U.S.:
-a)	Firearm homicides compared with other developed countries: America has far more firearm homicides than any other developed country in the world. Compared to Canada its six times and compared to Germany its sixteen times more. As per research by Harvard School of Public Health’s Injury Control Research Center, more number of firearms is the reason behind such outlier as far as gun homicides are concerned. 
+## The Vox article contains 17 different charts from many data sources. In tried to create three vizualizations to redesign three charts in the said data product and another three vizualizations  to rebuttle the claims of three charts. To create the redesigned and deceptive charts , I used the same data as used for creation of the original charts . 
+
+1.0	The vox  article provides intuitive visual information and statistics on the topic of America’s unique gun violence problem. United States is amongst the handful of nations where gun possession is constitutionally protected. The article focuses on the following issues related to gun violence in the U.S.:
+a)	Firearm homicides compared with other developed countries: America has far more firearm homicides than any other developed 	   country in the world. Compared to Canada its six times and compared to Germany its sixteen times more. As per research by   	 Harvard School of Public Health’s Injury Control Research Center, more number of firearms is the reason behind such outlier as far as gun homicides are concerned. 
 b)	Deaths due to firearms: Number of gun deaths in a state is strongly correlated with number of guns. A ton of research has supported the idea that easy access to gun increases the death risk proportionately. Most of the gun deaths in America are due to suicides not mass shootings. 
 c)	Causes of Gun Deaths: Though it’s quite intuitive that higher populations, stress, more immigrants, and more mental illness might be the reason behind gun deaths ; but as per the research by economist Richard Florida  gun deaths are more related to gun control laws in the states rather than these issues.
 d)	Most gun deaths are suicides: Guns are an easy way to consider suicide. As per research in various countries, restricting access to guns can help drop firearm suicides significantly.
